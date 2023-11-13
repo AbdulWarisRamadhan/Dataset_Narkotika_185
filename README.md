@@ -1,4 +1,4 @@
-#Dataset-Putusan-MA-Narkotika #Scrapping Putusan Mahkamah Agung PN BANJARMASIN tentang Narkotika dan psikotropika
+#Dataset-Putusan-MA-Narkotika #Scrapping Putusan Mahkamah Agung PN DOMPU tentang Narkotika dan psikotropika
 
 #DIBUAT OLEH #Abdul Waris Ramadhan 2020-185 
 
